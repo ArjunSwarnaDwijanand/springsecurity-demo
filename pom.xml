@@ -11,6 +11,8 @@
 	<groupId>com.coderdot</groupId>
 	<artifactId>springsecurity-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<!-- Specify packaging here -->
+	<packaging>war</packaging> <!-- Options: jar, war, ear, pom -->
 	<name>springsecurity-demo</name>
 	<description>Spring Security Login Registration</description>
 	<url/>
