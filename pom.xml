@@ -104,6 +104,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>springsecurity-demo</finalName>
 	</build>
-
 </project>
